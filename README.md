@@ -39,7 +39,7 @@ d. For each point of the chart, get the tooltip info and log it in the console
 
 ## Installation
 
-1. Open the `QA Automation Test Assignment` on `VSCode`
+1. Open the `qa-test-assignment` on `VSCode`
 2. Since this Project already has `Playwright` initialized, there is no need to run the following command unless it is a new project that we are setting up:
 
 ```cmd
