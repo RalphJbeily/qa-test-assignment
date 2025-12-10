@@ -65,7 +65,7 @@ There are several ways to run the tests:
 test('output the value name of each item in Selenium dropdown', async ({ page }) => {
 ```
 
-1. The test result will be observed under `TEST RESULTS` tab that `Playwright` will display after the test finishes.
+5. The test result will be observed under `TEST RESULTS` tab that `Playwright` will display after the test finishes.
 
 #### Run the tests headed mode
 
