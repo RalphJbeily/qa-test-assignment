@@ -1,6 +1,6 @@
 # QA Test Assignment - Manual
 
-The manual test cases written for the feature under this [link](https://demo.playwright.dev/todomvc/#/) can be found inside the `manual-test-cases` directory in the main project directory.
+The manual test cases written for the feature under this [link](https://demo.playwright.dev/todomvc/#/) can be found inside the [manual-test-cases](./manual-test-cases) directory in the main project directory.
 
 # QA Test Assignment - Automation
 
@@ -48,7 +48,7 @@ npm init playwright@latest
 
 ## Running the tests
 
-Each exercise is written in a seperate test `.spec.ts` file and the three of them can be found under `tests` directory. Inside `tests` you will find `first-exercise.spec.ts`, `second-exercise.spec.ts` and `third-exercise.spec.ts`.
+Each exercise is written in a seperate test `.spec.ts` file and the three of them can be found under `tests` directory. Inside [tests](./tests) you will find [first-exercise.spec.ts](./tests/first-exercise.spec.ts), [second-exercise.spec.ts](./tests/second-exercise.spec.ts) and [third-exercise.spec.ts](./tests/third-exercise.spec.ts).
 
 ### Steps to run the tests
 
